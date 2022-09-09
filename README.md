@@ -1,4 +1,4 @@
-# Data-Science-Project-
+# Data Science Project
 The following repository contains the work of cg21024 (Bharath Simha Karumudi).
 the files are named in numerical order (1.,2.,3.). 
 Each file represents a phase in the project. 
